@@ -1,4 +1,4 @@
-# Open AI based Voice Chatbot in Raspberry Pi or PC
+# Open AI based Voice Chatbot in Raspberry Pi zero W
 
 ## Installation
 
@@ -17,5 +17,5 @@ sudo apt-get install Flac
 # To Run
 
 ```bash
-python openAIBot.py
+python aiforpiepie.py 2>/dev/null  #2>/dev/null for ignor alsa 
 ``````
