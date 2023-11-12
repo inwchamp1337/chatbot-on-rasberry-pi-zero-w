@@ -19,3 +19,4 @@ sudo apt-get install Flac
 ```bash
 python aiforpiepie.py 2>/dev/null  #2>/dev/null for ignor alsa 
 ``````
+It would be better if you use the more expensive Raspberry Pi
