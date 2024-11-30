@@ -1,4 +1,4 @@
-## Now ChatGPT has its own voice chat, but We did it first.
+** Now ChatGPT has its own voice chat, but We did it first.
 
 ## Open AI based Voice Chatbot in Raspberry Pi zero W
  Project for the Second Year, First Semester Physiot Students at KMITL.
