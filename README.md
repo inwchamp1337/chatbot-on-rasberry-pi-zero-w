@@ -1,4 +1,5 @@
 # Open AI based Voice Chatbot in Raspberry Pi or PC
+![image](https://github.com/user-attachments/assets/61fdf3bb-fe8b-4cb5-b7c1-baff14bc468c)
 
 ## Installation
 
